@@ -1,3 +1,7 @@
+Name:Hemen Mengistu
+ID:UGR\2373\16
+Section:2
+
 # Maze Generator and Solver
 
 ## Overview
