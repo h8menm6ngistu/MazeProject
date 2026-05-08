@@ -13,15 +13,13 @@ private:
     int rows;
     int cols;
 
-    // Stores top walls
     vector<vector<bool>> northWall;
 
-    // Stores right walls
     vector<vector<bool>> eastWall;
 
-    // Tracks visited cells
     vector<vector<bool>> visited;
     vector<vector<bool>> solutionPath;
+vector<vector<bool>> deadEnd;
     int startRow;
 int endRow;
 
